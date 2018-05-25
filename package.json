@@ -1,7 +1,7 @@
 {
   "name": "commando",
   "version": "1.0.0",
-  "description": "",
+  "description": "commando bot",
   "main": "commando.js",
   "scripts": {
     "test": "node commando.js"
