@@ -4,7 +4,7 @@ const path = require('path');
 const sqlite = require('sqlite');
 
 const client = new CommandoClient({
-    commandPrefix: config.botprefix,
+    commandPrefix: config.bot.prefix,
     unknownCommandResponse: false,
     owner: config.owner.id,
     disableEveryone: true
