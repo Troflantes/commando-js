@@ -1,0 +1,19 @@
+{
+  "name": "commando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commando.js",
+  "scripts": {
+    "test": "node commando.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubilayuzun08/commando-js.git"
+  },
+  "author": "ByCat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubilayuzun08/commando-js/issues"
+  },
+  "homepage": "https://github.com/kubilayuzun08/commando-js#readme"
+}

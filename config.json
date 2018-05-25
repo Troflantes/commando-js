@@ -1,0 +1,16 @@
+{
+  "bot": {
+    "token": "",
+    "clientid": "",
+    "clientsecretid": "",
+    "version": "",
+    "name": "",
+    "discrim": "",
+    "prefix": ""
+  },
+  "owner": {
+    "id": "",
+    "name": "",
+    "discrim": ""
+  }
+}
