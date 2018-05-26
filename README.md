@@ -2,6 +2,6 @@
 TR Commando Alt Yapısı.
 
 
-Alt yapı kullanımı basittir sadece komutları sizin girmeniz yeter.
+# Alt yapı kullanımı basittir sadece komutları sizin girmeniz yeter.
 
-Discord: https://discord.gg/Uq7uUzY
+# Discord: https://discord.gg/epf3zAV
