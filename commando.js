@@ -1,7 +1,7 @@
 const { CommandoClient } = require('discord.js-commando');
 const config = require('./config.json')
 const path = require('path');
-const sqlite = require('sqlite');
+const discord = require('discord.js')
 
 const client = new CommandoClient({
     commandPrefix: config.bot.prefix,
@@ -13,7 +13,7 @@ const client = new CommandoClient({
 client.registry
     .registerDefaultTypes()
     .registerGroups([
-        ['group1', 'Our First Command Group']
+        ['allcommands', 'All command']
     ])
     .registerDefaultGroups()
     .registerDefaultCommands()
